@@ -4,6 +4,7 @@
 
 .my-icon {
     height: 15vh;
+    padding: 15px;
 }
 .my-div {
     text-align: center;
@@ -38,4 +39,15 @@
 
 .my-center{
     text-align: center;
+}
+
+#my-mail {
+    height: 8vh;
+}
+#my-phone {
+    height: 8vh;
+}
+
+#my-photo {
+    height: 10vh;
 }
